@@ -1,4 +1,4 @@
-# Maze
+# The Maze
 
 <p>A randomly generated maze.</p>
 <p>Your goal is to control the ball and reach the box at the bottom-right corner.<p>
