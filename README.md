@@ -5,7 +5,7 @@
 <p>you can control the ball using the arrow keys or WASD</p>
 <p>The difficulty depend on the screen size.</p>
 
-[Live Page](https://soul-remix.github.io/maze/)
+[Live Page](https://soul-remix.github.io/the-maze/)
 
 built using: [matter.js](https://brm.io/matter-js/)
 
